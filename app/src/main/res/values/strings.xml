@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PlantsHandBook</string>
+    <string name="add_plant">add plant</string>
+    <string name="bt_next_img">next image</string>
+    <string name="bt_done">done</string>
+    <string name="hint_name">name</string>
+    <string name="hint_desc">description</string>
+    <string name="tool_sync">Sync</string>
+    <string name="tool_del">delete</string>
+</resources>
